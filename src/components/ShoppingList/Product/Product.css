@@ -1,0 +1,25 @@
+.product {
+    background-color: #415a77;
+    border: black 1px solid;
+    margin: 10px auto ;
+    display: flex;
+    border-radius: 10px;
+    width: 50%;
+    justify-content: space-between;
+    color: #e0e1dd;
+}
+
+.product:hover {
+    background-color: #1b263b;
+}
+
+.product-info{
+    margin: 0 10px;
+}
+
+.product img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+}
